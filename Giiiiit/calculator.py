@@ -10,4 +10,10 @@ def subtract(num2, num1):
 
 subtract(7, 3)
 
+def multiplication(num1, num2):
+    print(num1 * num2)
+
+multiplication(16, 12)
+
+
 
